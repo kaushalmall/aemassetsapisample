@@ -44,7 +44,7 @@ import java.util.List;
  *
  *  The metadata object is available on the asset entity JSON under the property tag like
  *
- *  http://localhost:4502/api/assets/microsoft/01540_driftwood_1680x1050.jpg.json
+ *  http://localhost:4502/api/assets/myfolder/01540_driftwood_1680x1050.jpg.json
  */
 public class AemAssetsApiSample {
 
